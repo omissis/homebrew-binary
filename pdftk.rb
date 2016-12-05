@@ -13,7 +13,7 @@ class Pdftk < Formula
   homepage 'http://www.pdflabs.com/tools/pdftk-server'
   url 'http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.6-setup.pkg',
     :using => PkgExtract
-  sha256 '93226ecef996d7ad833a773ee15f9b62365fb567'
+  sha256 'c0679a7a12669480dd298c436b0e4d063966f95ed6a77b98d365bb8c86390d1b'
 
   depends_on :macos => :lion
 
